@@ -1,10 +1,10 @@
 
-- Phishing URL detection from Web Characteristics using Machine Learning Technique.
+# Phishing URL detection from Web Characteristics using Machine Learning Techniques.
 
 
----
 
-> ## Citations/Acknowledgements:
+
+## Citations/Acknowledgements:
 
 ### Dataset acknowledgement:
 ```
