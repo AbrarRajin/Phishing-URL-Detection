@@ -4,7 +4,6 @@
 
 
 
-## Citations/Acknowledgements:
 
 ### Dataset acknowledgement:
 ```
@@ -14,3 +13,15 @@ Prasad, A., & Chandra, S. (2023). PhiUSIIL: A diverse security profile empowered
 ### Dataset Link:
  UC Irvine Machine Learning Repository:  
 [Dataset Source Link](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
+
+---
+
+### Dataset Information:
+- Labeled - YES  
+- Classification Type: Binary Classification  
+- Number of Classes: Phishing (0) and Legitimate (1)  
+- Number of Samples: 235,795
+- Number of Features: 56
+---
+
+###
